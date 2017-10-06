@@ -1,0 +1,1 @@
+This is an app and proxy server that finds, caches and returns movie data from the OMDB api. The dependencies are Express, Axios and Morgan
